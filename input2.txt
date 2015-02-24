@@ -1,0 +1,3 @@
+A,25,25,RED,6,Envelops B,Divides
+B,50,100,BLUE,4,Absorbs C,Divides
+C,50,50,GREEN,4,Absorbs A,Divides
